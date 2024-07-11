@@ -43,32 +43,32 @@ fi
 if ! command -v curl; then
     install_curl
 fi
-if [ -f Fix.py ]; then
-    first_line=$(head -n 1 Fix.py)
+if [ -f WarpScanner.py ]; then
+    first_line=$(head -n 1 WarpScanner.py)
     if [ "$first_line" == "import urllib.request" ]; then
-        rm Fix.py
-        echo "Updating Fix.py..."
-        curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
-        python Fix.py
+        rm WarpScanner.py
+        echo "Updating WarpScanner.py..."
+        curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
+        python WarpScanner.py
         exit 0
     fi
 
 fi
-if [ -f Fix.py ]; then
-    first_line=$(head -n 1 Fix.py)
+if [ -f WarpScanner.py ]; then
+    first_line=$(head -n 1 WarpScanner.py)
     if [ "$first_line" != "V=12" ]; then
-        rm Fix.py
-        echo "Updating Fix.py..."
-        curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
+        rm WarpScanner.py
+        echo "Updating WarpScanner.py..."
+        curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
         
-        python Fix.py
+        python WarpScanner.py
         exit 0
     else
-        python Fix.py
+        python WarpScanner.py
         exit 0
     fi
 fi
 
-echo "install Fix.py"
-curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
-python Fix.py
+echo "install WarpScanner.py"
+curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
+python WarpScanner.py
