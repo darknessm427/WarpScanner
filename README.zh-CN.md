@@ -1,6 +1,6 @@
 ## 扭曲扫描仪
 
-语言 : 🇮🇷[波斯语](README.md)| 🇹🇷[土耳其](README.tr.md)| 🇬🇧[英语](README.en.md)| 🇨🇳[中国人](README.zh-CN.md)
+语言 : 🇮🇷[波斯语](README.md)| 🇹🇷[Turkish](README.tr.md)| 🇬🇧[英语](README.en.md)| 🇨🇳[中国人](README.zh-CN.md)
 
 <p align="center">   
    <img  width=70% src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
@@ -28,13 +28,13 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ## 1. IP扫描仪是IPv4、IPv6
 
-##### ▫️قابلیت ذخیره شدن  آیپی ها ورژن چهار در storage/emulated/0/ و فایلی به اسم result.csv
+##### ▫️ 能够将版本 4 IP 保存在 storage/emulated/0/ 和名为 result.csv 的文件中
 
 ##### 因此，应该注意的是，输入数字 1，然后输入 y，也许再输入 y
 
 ##### 然后你必须按照要求向 Termox 提供内存访问权限
 
-##### و بعد
+##### 进而
 
 ##### 注意：您可以为 Vahid 面板（带 in​​ter）和 bpb 面板（带逗号）创建一个干净的 IP。
 
@@ -48,7 +48,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ▫️如果在获取wireguard配置时遇到超时错误，请多测试几次<br><br/>
 
-## 3. دریافت کانفیگ وایرگارد بدون نیاز به اسکن آیپی
+## 3.无需扫描IP即可获取Wireguard配置
 
 （这是针对那些收到错误 best_result 的人[0]吃） 
  这种情况，可以先用其他扫描仪扫描IP 
