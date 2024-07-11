@@ -14,7 +14,7 @@ language : 🇮🇷[Persian](README.md)| 🇹🇷[Turkish](README.tr.md)| 🇬�
 
 [![Termux 📲](https://img.shields.io/badge/Github-Termux📲-cyan?style=plastic)](https://github.com/termux/termux-app/releases)
 
-### Run the following code in AppTermax
+### کد زیر رو در اپ ترماکس اجرا کنید
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
@@ -32,7 +32,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ##### Therefore, it should be noted that by entering the number one and then y and maybe again y
 
-##### And then you have to give the memory access to Termox that you are asked
+##### And then you have to give memory access to Termox, which is asked of you
 
 ##### and then
 
@@ -52,7 +52,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 (It is for people who get the error best_result[0]Eat) 
  In this case, you can first scan the IP from other scanners 
- And after selecting the third option, you will be asked to enter the IP with the port, or if you enter N, it will select the IP that I have already entered.
+ And after selecting the third option, you will be asked to enter the IP with the port, or if you enter N, it will choose the IP that I have already entered.
 
 <br><br/>
 
@@ -65,9 +65,9 @@ If you get a timeout error, try a few more times<br><br/>
 > This is for those who get error requests 👈👈<https://t.me/arshia_mod_fun/298>
 
 By entering option 1 and after that 2 
- You can get the IP version of Shish, which is also implemented for Option 5 Wireguard configuration for Mahsa Anji and Vettori.
+ You can get the IP version of Shish, which is also implemented for Option 5 Wireguard configuration for Mehsa Anji and Vettori.
 
-After copying the Wire Guard configuration with the IP version of Shish and then importing it into the client, do this so as not to run into a bug.
+After copying the Wire Guard configuration with the IP version of Shish and then importing it into the client, do this so that you don't get a bug.
 
 -   1\. Pencil button
 -   2\. Putting the bracket next to the IP[ipvsh]
@@ -101,7 +101,7 @@ Type of Use :
 
 <br><br/>
 
-## 10. Open this config file option`.conf`Wireguard is made for Windscribe and Wireguard
+## 10. Open this config file option`.conf` وایرگارد  ساخته میشود برای ویندسکرایب و وایرگارد
 
 ## donate
 
