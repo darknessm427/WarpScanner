@@ -48,7 +48,7 @@ if [ -f Fix.py ]; then
     if [ "$first_line" == "import urllib.request" ]; then
         rm Fix.py
         echo "Updating Fix.py..."
-        curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/M/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
+        curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
         python Fix.py
         exit 0
     fi
@@ -59,7 +59,7 @@ if [ -f Fix.py ]; then
     if [ "$first_line" != "V=12" ]; then
         rm Fix.py
         echo "Updating Fix.py..."
-        curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/M/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
+        curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
         
         python Fix.py
         exit 0
@@ -70,5 +70,5 @@ if [ -f Fix.py ]; then
 fi
 
 echo "install Fix.py"
-curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/M/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
+curl -fsSL -o Fix.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/Fix.py || { echo \"Failed to download Fix.py. Exiting.\"; exit 1; }
 python Fix.py
