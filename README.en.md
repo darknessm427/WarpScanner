@@ -92,7 +92,7 @@ You will be asked whether Po sites (Kung Fu Panda) will be blocked or not<br><br
 
 ## 9. You can make a short cut
 
- نام بهش بدید و پنجره ترموکس رو ببندید و جدید باز کنید.
+Give it a name and close the Thermox window and open a new one.
 
 Type of Use :
 
