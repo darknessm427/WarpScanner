@@ -1771,7 +1771,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
         
         if name_conf=='' :
         	
-        	name_conf='ÐΛɌ₭ᑎΞ𐒡𐒡wire.conf'
+        	name_conf='darkwire.conf'
         path = '/storage/emulated/0/'+name_conf
         with open(path, 'w') as f:
         	f.write(f'''[Interface]
