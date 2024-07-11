@@ -48,7 +48,7 @@ if [ -f WarpScanner.py ]; then
     if [ "$first_line" == "import urllib.request" ]; then
         rm WarpScanner.py
         echo "Updating WarpScanner.py..."
-        curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/arshiacomplus/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
+        curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
         python WarpScanner.py
         exit 0
     fi
@@ -59,7 +59,7 @@ if [ -f WarpScanner.py ]; then
     if [ "$first_line" != "V=12" ]; then
         rm WarpScanner.py
         echo "Updating WarpScanner.py..."
-        curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/arshiacomplus/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
+        curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
         
         python WarpScanner.py
         exit 0
@@ -70,6 +70,6 @@ if [ -f WarpScanner.py ]; then
 fi
 
 echo "install WarpScanner.py"
-curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/arshiacomplus/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
+curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
 python WarpScanner.py
 
