@@ -24,7 +24,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
-> [！警告!]由于它在第一步中尝试安装 Python，因此可能需要 VPN！
+> [!WARNING]由于它在第一步中尝试安装 Python，因此可能需要 VPN！
 
 ## 1. IP扫描仪是IPv4、IPv6
 
@@ -32,7 +32,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ##### 因此，应该注意的是，输入数字 1，然后输入 y，也许再输入 y
 
-##### 然后你必须向 Termox 授予内存访问权限，这是要求你的
+##### 然后你必须按照要求向 Termox 提供内存访问权限
 
 ##### 进而
 
@@ -40,7 +40,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ##### 保存在结果文件中
 
-##### 然后你输入数字一（IP版本四）
+##### بعد عدد یک رو وارد میکنید(ایپی ورژن چهار )
 
 <br><br/>
 
@@ -67,13 +67,13 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 输入选项 1，然后输入选项 2 
  您可以获得 Shish 的 IP 版本，该版本也适用于 Mehsa Anji 和 Vettori 的选项 5 Wireguard 配置。
 
-使用 Shish 的 IP 版本复制 Wire Guard 配置，然后将其导入客户端后，执行此操作，以免出现错误。
+使用 IP 版本的 Shish 复制 Wire Guard 配置，然后将其导入客户端后，请执行此操作，以免遇到错误。
 
--   1\. 铅笔按钮
+-   1.دکمه مداد
 -   2\. 将支架放在 IP 旁边[ipvsh]
 -   3\. 存储<br><br/>
 
-## 6. 获取 Vettori 和 Mehsa Anji 的 Wireguard 配置以及...无需 IP 扫描
+## 6. 获取 Vettori 和 Mehsa Anji 的wireguard 配置以及...无需 IP 扫描
 
 如果你按n，它会选择我已经设置的IP
  否则 
