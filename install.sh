@@ -72,4 +72,3 @@ fi
 echo "install WarpScanner.py"
 curl -fsSL -o WarpScanner.py https://raw.githubusercontent.com/darknessm427/WarpScanner/main/WarpScanner.py || { echo \"Failed to download WarpScanner.py. Exiting.\"; exit 1; }
 python WarpScanner.py
-
