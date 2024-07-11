@@ -97,7 +97,7 @@ def info():
 ['python'
 ] + sys.argv)
     elif whats2=='1':
-    	os.system("termux-open-url 'https://t.me/arshia_mod_fun'")
+    	os.system("termux-open-url 'https://t.me/darkness_427'")
     elif whats2=='2'   :
     	os.system("termux-open-url 'https://github.com/darknessm427/WarpScanner/tree/main'")
     	
