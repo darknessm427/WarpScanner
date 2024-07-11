@@ -70,7 +70,7 @@ Seçenek 1'i ve ardından 2'yi girerek
 Wire Guard yapılandırmasını Shish'in IP sürümüyle kopyalayıp istemciye aktardıktan sonra, bir hatayla karşılaşmamak için bunu yapın.
 
 -   1\. Kalem düğmesi
--   2\. Braketi IP'nin yanına koymak[ipv6]
+-   2\. Braketi IP'nin yanına koymak[ipvsh]
 -   3\. Depolama<br><br/>
 
 ## 6. Vettori ve Mehsa Anji için kablosuz koruma yapılandırmasını almak ve... IP taraması olmadan
@@ -84,7 +84,7 @@ N tuşuna basarsanız önceden ayarladığım IP seçilecektir
 
 ## 7. V2ray ve MahsaNG için yapılandırma, warp on warp almak için 7. seçeneği kullanabilirsiniz (yardım bpb panelinden alınmıştır....)
 
-P,W, (Panda Kung Fu Kar) sitelerinin engellenip engellenmeyeceği size sorulacaktır.<br><br/>
+Po sitelerinin (Kung Fu Panda) engellenip engellenmeyeceği size sorulacaktır.<br><br/>
 
 ## 8. Bu warp'ı v2ray veya MahsaNg için alt çözgü yapabilirsiniz
 
