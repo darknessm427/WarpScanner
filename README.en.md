@@ -101,7 +101,7 @@ Type of Use :
 
 <br><br/>
 
-## 10. Open this config file option`.conf`Wireguard is made for Windscribe and Wireguard
+## 10. Open this config file option`.conf` وایرگارد  ساخته میشود برای ویندسکرایب و وایرگارد
 
 ## donate
 
