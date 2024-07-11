@@ -69,7 +69,7 @@ Seçenek 1'i ve ardından 2'yi girerek
 
 Wire Guard yapılandırmasını Shish'in IP sürümüyle kopyalayıp istemciye aktardıktan sonra, bir hatayla karşılaşmamak için bunu yapın.
 
--   1.دکمه مداد
+-   1\. Kalem düğmesi
 -   2\. Braketi IP'nin yanına koymak[ipvsh]
 -   3\. Depolama<br><br/>
 
@@ -105,7 +105,7 @@ Kullanım Şekli :
 
 ## bağış yapmak
 
-<b>Trx:</b><br><a href="https://link.trustwallet.com/send?coin=195&address=TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G">TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G</a>
+<b>TRX:</b><br><a href="https://link.trustwallet.com/send?coin=195&address=TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G">TKUpVDG5DqLDUSg3X1hhidRPuhm1GmqZ2G</a>
 
 ## Projeyi destekleyin
 
