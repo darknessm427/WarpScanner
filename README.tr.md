@@ -30,15 +30,15 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ##### ▫️ Dördüncü sürüm IP'leri depolama/emülasyon/0/ dizinine ve result.csv adlı bir dosyaya kaydetme yeteneği
 
-##### Bu nedenle, bir sayısını girerek, ardından y ve belki tekrar y olduğunu belirtmek gerekir.
+##### Bu nedenle şunu belirtmek gerekir ki, bir rakamını girerek ardından y ve belki tekrar y
 
-##### Daha sonra sizden istenen Termox'a hafıza erişimi vermeniz gerekir.
+##### Daha sonra sizden istenen Termox'a hafıza erişimi vermeniz gerekiyor.
 
 ##### ve daha sonra
 
-##### Not: Vahid panel (inter ile) ve bpb panel (virgül ile) için temiz IP oluşturabilirsiniz.
+##### نکته : میتونید  آیپی تمیز برای پنل وحید(با اینتر ) و پنل bpb(با کاما )
 
-##### Sonuç dosyasına kaydet
+##### Sonuç dosyasına kaydedin
 
 ##### Daha sonra bir numarayı girersiniz (IP dördüncü versiyonu)
 
@@ -65,9 +65,9 @@ Zaman aşımı hatası alırsanız birkaç kez daha deneyin<br><br/>
 > Hata istekleri alanlar için bu 👈👈<https://t.me/arshia_mod_fun/298>
 
 Seçenek 1'i ve ardından 2'yi girerek 
- Mahsa Anji ve Vettori için Seçenek 5 Wireguard yapılandırması için de uygulanan Shish'in IP sürümünü alabilirsiniz.
+ Mehsa Anji ve Vettori için Seçenek 5 Wireguard yapılandırması için de uygulanan Shish'in IP sürümünü alabilirsiniz.
 
-Wire Guard yapılandırmasını Shish'in IP sürümüyle kopyalayıp istemciye aktardıktan sonra, bir hatayla karşılaşmamak için bunu yapın.
+Wire Guard konfigürasyonunu Shish'in IP versiyonu ile kopyalayıp client'a aktardıktan sonra hata almamak için bunu yapın.
 
 -   1\. Kalem düğmesi
 -   2\. Braketi IP'nin yanına koymak[ipvsh]
