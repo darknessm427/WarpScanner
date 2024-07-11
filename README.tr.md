@@ -32,13 +32,13 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ##### Bu nedenle şunu belirtmek gerekir ki, bir rakamını girerek ardından y ve belki tekrar y
 
-##### Daha sonra sizden istenen Termox'a hafıza erişimi vermeniz gerekiyor.
+##### Daha sonra sizden istenen Termox'a hafıza erişimi vermeniz gerekir.
 
 ##### ve daha sonra
 
 ##### Not: Vahid panel (inter ile) ve bpb panel (virgül ile) için temiz IP oluşturabilirsiniz.
 
-##### Sonuç dosyasına kaydedin
+##### Sonuç dosyasına kaydet
 
 ##### Daha sonra bir numarayı girersiniz (IP dördüncü versiyonu)
 
@@ -48,7 +48,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/darknessm427/WarpScanner/mai
 
 ▫️ Wireguard yapılandırmasını alırken zaman aşımı hatası alırsanız birkaç kez daha test edin<br><br/>
 
-## 3. IP taramasına gerek kalmadan Wireguard yapılandırmasını edinin
+## 3. دریافت کانفیگ وایرگارد بدون نیاز به اسکن آیپی
 
 (best_result hatasını alan kişiler içindir[0]Yemek yemek) 
  Bu durumda ilk önce IP'yi diğer tarayıcılardan tarayabilirsiniz. 
@@ -67,13 +67,13 @@ Zaman aşımı hatası alırsanız birkaç kez daha deneyin<br><br/>
 Seçenek 1'i ve ardından 2'yi girerek 
  Mehsa Anji ve Vettori için Seçenek 5 Wireguard yapılandırması için de uygulanan Shish'in IP sürümünü alabilirsiniz.
 
-Wire Guard konfigürasyonunu Shish'in IP versiyonu ile kopyalayıp client'a aktardıktan sonra hata almamak için bunu yapın.
+Wire Guard yapılandırmasını Shish'in IP sürümüyle kopyalayıp istemciye aktardıktan sonra, bir hatayla karşılaşmamak için bunu yapın.
 
 -   1\. Kalem düğmesi
 -   2\. Braketi IP'nin yanına koymak[ipvsh]
 -   3\. Depolama<br><br/>
 
-## 6. Vettori ve Mehsa Anji için Wireguard yapılandırmasını almak için ve... IP taraması olmadan
+## 6. Vettori ve Mehsa Anji için kablosuz koruma yapılandırmasını almak ve... IP taraması olmadan
 
 N tuşuna basarsanız önceden ayarladığım IP seçilecektir
  aksi takdirde 
