@@ -64,12 +64,12 @@ Zaman aşımı hatası alırsanız birkaç kez daha deneyin<br><br/>
 
 > Hata istekleri alanlar için bu 👈👈<https://t.me/arshia_mod_fun/298>
 
- با وارد کردن گزینه ۱ و بعد از اون ۲ 
- میتونید آیپی ورژن شیش دریافت کنید که برای گزینه ۵ کانفیگ وایرگارد برای مهسا انجی و و ویتوری هم پیاده سازی شده 
+Seçenek 1'i ve ardından 2'yi girerek 
+ Mehsa Anji ve Vettori için Seçenek 5 Wireguard yapılandırması için de uygulanan Shish'in IP sürümünü alabilirsiniz.
 
 Wire Guard konfigürasyonunu Shish'in IP versiyonu ile kopyalayıp client'a aktardıktan sonra hata almamak için bunu yapın.
 
--   1.دکمه مداد
+-   1\. Kalem düğmesi
 -   2\. Braketi IP'nin yanına koymak[ipvsh]
 -   3\. Depolama<br><br/>
 
@@ -92,7 +92,7 @@ Po sitelerinin (Kung Fu Panda) engellenip engellenmeyeceği size sorulacaktır.<
 
 ## 9. Kısayol yapabilirsiniz
 
- نام بهش بدید و پنجره ترموکس رو ببندید و جدید باز کنید.
+Bir isim verin ve Thermox penceresini kapatıp yeni bir tane açın.
 
 Kullanım Şekli :
 
